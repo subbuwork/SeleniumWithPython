@@ -27,4 +27,4 @@ def test_verify_lgon_success(setup):
     :param setup:
     :return:
     """
-    LoginPage.FacebookLoginPage(setup).verify_login_with_credentials("subbu.varsith1@gmail.com","Jason@2017")
+    LoginPage.FacebookLoginPage(setup).verify_login_with_credentials("xxxxxxxx","xxxxxxxx")
